@@ -1,0 +1,10 @@
+.courseimg {
+  width: 200px;
+}
+.enroll-btn {
+  border: none;
+  background-color: #f66cb7;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
